@@ -111,7 +111,7 @@ Visual Studio 2022 or VS Code
 1. **Clone the repository:**
 
 ```bash
-    git clone https://github.com/your-username/CMSAppOA.git
+    git clone https://github.com/seljanzeynalovacode/CMSAppOA 
     cd CMSAppOA
 ```
 
