@@ -22,7 +22,7 @@ The project is structured using the **Onion Architecture** pattern to achieve lo
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure 
 
 ```text
 Solution 'CMSAppOA' (6 projects)
