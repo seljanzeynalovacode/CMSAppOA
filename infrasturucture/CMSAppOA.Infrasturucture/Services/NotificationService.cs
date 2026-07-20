@@ -34,9 +34,9 @@ namespace CMSAppOA.Application.Services
 
         private async Task SendEmailAsync(string toEmail, string message)
         {
-            var fromAddress = new MailAddress("licabbarov1@gmail.com");
+            var fromAddress = new MailAddress("youremailaddress@gmail.com");
             var toAddress = new MailAddress(toEmail);
-            const string password = "dgag kuua tvyv uuuh";
+            const string password = "your app password";
 
             using var smtp = new SmtpClient("smtp.gmail.com", 587)
             {
